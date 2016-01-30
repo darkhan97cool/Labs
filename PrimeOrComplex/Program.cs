@@ -28,11 +28,11 @@ namespace PrimeOrComplex
             }
             if (cnt == 2)
             {
-                Console.WriteLine("Entered number is Prime");
+                Console.WriteLine("!!!Entered number is Prime");
             }
             else
             {
-                Console.WriteLine("Entered number is Complex");
+                Console.WriteLine("!!!Entered number is Complex");
             }           
             Console.ReadKey();
         }

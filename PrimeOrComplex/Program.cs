@@ -8,33 +8,32 @@ namespace PrimeOrComplex
 {
     class Program
     {
-        /// <summary>
-        /// Here, I can enter just one number but 
-        /// I want enter set of numbers then find prime numbers from there.
-        /// </summary>
-        /// <param name="args"></param>
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Please enter input...");
-            int a = int.Parse(Console.ReadLine());
+            int a, b;
+            Console.WriteLine("Please enter inputs...");
+            a = int.Parse(Console.ReadLine());
+            b = int.Parse(Console.ReadLine());
             int cnt = 0;
-            for(int i=1;i <= a; i++)
+            for (int i = a; i <= b; i++)
             {
-                if (a % i == 0)
+                for (int j = 2; j <= i; j++)
                 {
-                    cnt++;
+                    if (i % j == 0)
+                    {
+                        cnt++;
+                    }
+                    }
+                    if(cnt==1)
+                    {
+                        Console.WriteLine(i);
+                        Console.Write(" "); 
                 }
             }
-            if (cnt == 2)
-            {
-                Console.WriteLine("!!!Entered number is Prime");
-            }
-            else
-            {
-                Console.WriteLine("!!!Entered number is Complex");
-            }           
             Console.ReadKey();
-        }
-    }
+                
+          }           
+            
+     }
 }
+

@@ -1,0 +1,6 @@
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Example 1\Example 1\bin\Debug\Example 1.exe.config
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Example 1\Example 1\bin\Debug\Example 1.exe
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Example 1\Example 1\bin\Debug\Example 1.pdb
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Example 1\Example 1\obj\Debug\Example 1.csprojResolveAssemblyReference.cache
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Example 1\Example 1\obj\Debug\Example 1.exe
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Example 1\Example 1\obj\Debug\Example 1.pdb

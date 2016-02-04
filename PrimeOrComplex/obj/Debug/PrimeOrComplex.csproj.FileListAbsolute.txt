@@ -1,0 +1,6 @@
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\PrimeOrComplex\PrimeOrComplex\bin\Debug\PrimeOrComplex.exe.config
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\PrimeOrComplex\PrimeOrComplex\bin\Debug\PrimeOrComplex.exe
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\PrimeOrComplex\PrimeOrComplex\bin\Debug\PrimeOrComplex.pdb
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\PrimeOrComplex\PrimeOrComplex\obj\Debug\PrimeOrComplex.csprojResolveAssemblyReference.cache
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\PrimeOrComplex\PrimeOrComplex\obj\Debug\PrimeOrComplex.exe
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\PrimeOrComplex\PrimeOrComplex\obj\Debug\PrimeOrComplex.pdb

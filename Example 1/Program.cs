@@ -20,6 +20,7 @@ namespace  Example1
             Console.ReadKey();
         }
 
+        
         private static void F5()
         {
             // This method find max and min  numbers from input.txt! Then write to the Console.
@@ -52,8 +53,9 @@ namespace  Example1
         {
             // This method prime  number from input.txt! Then write it to the input.txt.
             FileStream fs = new FileStream("input.txt", FileMode.OpenOrCreate, FileAccess.ReadWrite);
+            FileStream sf = new FileStream("output.txt", FileMode.OpenOrCreate, FileAccess.ReadWrite);
             StreamReader sr = new StreamReader(fs);
-            StreamWriter sw = new StreamWriter(fs);
+            StreamWriter sw = new StreamWriter(sf);
             string[] arr = sr.ReadLine().Split();
             List<int> primes = new List<int>();
             
@@ -75,6 +77,7 @@ namespace  Example1
                     }
                 }
             }
+            sw.WriteLine("Prime numbers are  " + primes);
             sw.WriteLine("Min Prime number is:" + primes.Min());
             sw.Close();
             sr.Close();

@@ -1,0 +1,2 @@
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Class_Student\Class_Student\bin\Debug\Class_Student.exe.config
+C:\Users\Асыл Бiлiм\Desktop\Programming Technologies\Class_Student\Class_Student\obj\Debug\Class_Student.csprojResolveAssemblyReference.cache
